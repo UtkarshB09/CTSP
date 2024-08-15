@@ -1,5 +1,5 @@
 # CTSP
-Colored Traveling salesman problem
+Colored Traveling salesman problem : 
 In order to solve the Coloured Travelling Salesman Problem (CTSP), a challenging
 variation of the standard Travelling Salesman Problem (TSP), the project successfully
 applied and tested an Artificial Bee Colony (ABC) algorithm. By including numerous
